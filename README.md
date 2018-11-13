@@ -1,4 +1,11 @@
-# app
+# {app_name}
+
+## 開発環境
+- ionic
+- Anguler
+- Node.js
+- Firebase
+
 ## 機能
 - 自分の服の写真をアップロードできる
 - 初回追加時に種類を選択
