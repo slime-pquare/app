@@ -1,4 +1,4 @@
-# {app_name}
+# MATOU
 
 ## 開発環境
 - ionic
